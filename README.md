@@ -1,6 +1,5 @@
 # Product Quantizer
-C++ implementation of product quantizer for nearest neighbor search
-This project is a C++ implementation of Product quantizer
+This project is a C++ implementation of Product quantizer for nearest neighbor search.
 
 
 ### Compile and Install

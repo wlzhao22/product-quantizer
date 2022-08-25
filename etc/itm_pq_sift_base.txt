@@ -1,0 +1,4 @@
+<item>
+vectab=/home/wlzhao/datasets/bignn/sift/sift_base.fvecs
+pqctab=/home/wlzhao/datasets/bignn/sift/sift_base_v8192k256m8_pqc.txt
+</item>

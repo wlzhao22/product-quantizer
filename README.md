@@ -7,7 +7,7 @@ This project can be compiled with GCC 3.8 or later under Linux and MacOS. Althou
 It should be compiled smoothly on Windows with a few modifications. 
 
 ```
-cd pq
+cd product-quantizer/
 make release
 cp bin/Release/pq $HOME/bin
 ```

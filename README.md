@@ -16,5 +16,5 @@ cp bin/Release/pq $HOME/bin
 ### Copyrights and License
 This project is fully supported by ODD Concepts Inc. from Seoul, South Korea during 2014∼2015. The Source Code may be used for academic and research purposes only, and any commercial use is strictly prohibited without the permission of Odd Concepts Inc.
 
-###Author: 
+### Author
 Wan-Lei Zhao

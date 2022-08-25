@@ -4,7 +4,7 @@ This project is a C++ implementation of Product quantizer for nearest neighbor s
 
 ### Compile and Install
 This project can be compiled with GCC 3.8 or later under Linux and MacOS. Although no test has been made on Windows, 
-It should be compiled smoothly on Windows with a few modifications. 
+it should be compiled smoothly on Windows by MinGW with a few modifications. 
 
 ```
 cd product-quantizer/
